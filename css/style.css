@@ -4716,19 +4716,19 @@ border-radius: 12px;
 
 .pricing_box svg {
 
-    height: 70px;
+height: 70px;
 
-    width: 70px;
+width: 70px;
 
-    position: absolute;
+position: absolute;
 
-    right: 0;
+right: 0;
 
-    top: 0;
+top: 0;
 
-    background: #f3f3f6;
+background: #24262b;
 
-    color: #8fbc5d;
+color: #8fbc5d;
 }
 
 .premium_plan.pricing_box svg {
